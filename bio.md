@@ -5,4 +5,4 @@
 
 **slack handle** cole.gregory
 
-![image](images/Unitled-1.jpg)
+Pic ![image](images/photo.jpg)
