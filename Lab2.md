@@ -9,6 +9,8 @@ for any project is all rights reserved so it is better to avoid any chance of co
 
 4\. I agree that a reason Gopher lost to the Web was its failure to adopt an open systems approach. Opening up Web technology to a wider community allowed it to grow and advance much faster than Gopher. Gopher's decision to not involve its community prevented it from improving as quickly as the Web and greatly contribtued to its failure. 
 
+5\. Microsoft chose to use an MIT license because they want to make it as easy as possible for developers to make new applications. The market for developer tools is relatively small compared to the market for their main products like Windows or Windows Phones. The more apps that are available for these platforms, the more people will consider purchasing them. 
+
 10\. 
 
 Name | Website | License
