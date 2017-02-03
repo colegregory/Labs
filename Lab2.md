@@ -15,7 +15,7 @@ for any project is all rights reserved so it is better to avoid any chance of co
 
 7\. The GPL license would be the best for a developer because it makes sure all modfications are made public. One of a developer's main goals is to improve their software, and by having access to all modifications, improvements could be made much faster. For a company, the LGPL license might be a better choice. A company might focus more on creating a userbase than just improving software. Because the LGPL license doesn't require applications using its software to be licensed under LGPL, more people would have incentive to use the software in their projects. The Apache/BSD license would be the best for the common good because it gives the most freedom to users. The content is completely available to the public, so the most people can benefit from it. 
 
-10\. 
+9\. 
 
 Name | Website | License
 ---------|:----------|:-------
