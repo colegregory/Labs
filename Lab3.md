@@ -11,4 +11,4 @@ git log:
 ![Image](images/Lab3 - Learn_Branching.png)
 
 ##Part 3:
-![Link to repository](https://github.com/colegregory/courseproject/tree/master)
+[Link to repository](https://github.com/colegregory/courseproject/tree/master)
