@@ -12,3 +12,5 @@ git log:
 
 ##Part 3:
 [Link to repository](https://github.com/colegregory/courseproject/tree/master)
+
+[Link to table repository](https://github.com/jemzlee/Story-Spring2017)
