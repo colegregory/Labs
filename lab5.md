@@ -8,7 +8,8 @@
 ![image](images/Lab5-0.2.png)
 
 
-```\[
+```
+\[
 H_4 =
 \begin{bmatrix}
     1 & 1 & 1 & 1\\
@@ -48,14 +49,16 @@ With gitstats
 
 -listing the number of files with `git ls-files -z | xargs -0 wc -l`
 
+3. 
+[Youtube Link to Gource Video](https://www.youtube.com/watch?v=BXgDmAq4KvA&feature=youtu.be)
 
-
-YACS 
-  number of contributors : 15
-  number of lines of code : 
-  the first commit : 
-  the latest commit : 
-  the current branches : 
-
+The leader seems to be Zefanya Putri.
 
 ##Part 2:
+[code](https://github.com/colegregory/Labs/blob/master/markdown.py)
+
+[testcode](https://github.com/colegregory/Labs/blob/master/test_markdown_unittest.py)
+
+![image](images/Lab5-2.1.png)
+
+
