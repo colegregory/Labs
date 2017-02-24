@@ -1,7 +1,32 @@
+##Part 0:
+`$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$`
+
+![image](images/Lab5-0.1.png)
+
+`$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$`
+
+![image](images/Lab5-0.2.png)
+
+
+```\[
+H_4 =
+\begin{bmatrix}
+    1 & 1 & 1 & 1\\
+    -1 & 1 & -1 & 1\\
+    -1 & -1 & 1 & 1\\
+    1 & -1 & -1 & 1 
+\end{bmatrix}
+\]
+```
+
+![image](images/Lab5-0.3.png)
+
+
 ##Part 1:
 ###Projects 36 - 37
 
 whenisbest 
+
 1.
   number of contributors : 6
   number of lines of code : 6135
@@ -12,7 +37,8 @@ whenisbest
                          master
                          small_fixes
                          test_branch
-                         user_interface
+                         user_interface 
+                         
 2.
 With gitstats
   number of contributors : 7
