@@ -38,22 +38,20 @@ def convertH3(line):
 
 def convertBlockquote(line):
   global blockq
-  if(not(blockq)):
-    if(line.find("> ")):
-      blockq = True
-      line = re.sub(r'>(.*)', r'<blockquote>\\n\1', line)
-  else:
-    if (line.find("> ")):
-      line = re.sub(r'>(.*)', r'\1', line)
-    else:
-      blockq = False
-      line = re.sub(r'(.*)', r'\1\\n</blockquote>', line)
-
+  if(line.find("> ") != -1):
+    if(not(blockq)):
+      print('<blockquote>')
+      blockq = True;
+    line = re.sub(r'> (.*)', r'\1', line)
+  elif(blockq):
+    print('</blockquote>')
+    blockq = False
   return line
 
     
 for line in fileinput.input():
   line = line.rstrip()
+  line = convertBlockquote(line)
   line = convertStrong(line)
   line = convertEm(line)
   line = convertH1(line)
