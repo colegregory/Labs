@@ -56,26 +56,16 @@ class TestMarkdownPy(unittest.TestCase):
         self.assertEqual(
                 run_markdown('###this should be wrapped in h3 tags'),
                 '<h3>this should be wrapped in h3 tags</h3>')
-    #def test_blockquote(self):
-    #    '''
-    #    Lines preceeded by > should be wrapped in 'blockquote' tags until
-    #    the first line with no >
-    #    '''
-    #    text = '> This is a blockquote.\n\
-    #            >\n\
-    #            > This is the second paragraph in the blockquote.\n\
-    #            >\n\
-    #            > ## This is an H2 in a blockquote'
-    #            
-    #    self.assertEqual(
-    #            run_markdown(text),
-    #            '<blockquote>\n\
-    #                <p>This is a blockquote</p>\n\
-    #                <p></p>\n\
-    #                <p>This is the second paragraph in the blockquote.</p>\n\
-    #                <p></p>\n\
-    #                <h2>This is an H2 in a blockquote</h2>\n\
-    #            </blockquote>')
+    def test_blockquote(self):
+        '''
+        Lines preceeded by > should be wrapped in 'blockquote' tags until
+        the first line with no >
+        '''
+        text = '> This line should be wrapped in blockquotes\n> ##This is an H2 in a blockquote\nThis is not in blockquotes'
+                
+        self.assertEqual(
+                run_markdown(text),
+                '<blockquote>\n<p>This line should be wrapped in blockquotes</p>\n<h2>This is an H2 in a blockquote</h2>\n</blockquote>\n<p>This is not in blockquotes</p>')
 if __name__ == '__main__':
     unittest.main()
 
