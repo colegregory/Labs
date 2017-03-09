@@ -14,7 +14,7 @@
 ```
   iii. moron to smart
   ```
-  shortest path between 'smart' and 'moron' is:
+  shortest path between 'moron' and 'smart' is:
 ['smart', 'start', 'stars', 'sears', 'bears', 'beads', 'bends', 'bands', 'banes',
 'canes', 'capes', 'capos', 'capon', 'caron', 'baron', 'boron', 'moron']
 ```
@@ -33,3 +33,27 @@ No path between pound and marks.
   ```
   ['love', 'hove', 'have', 'hate']
   ```
+
+Variation - Two words (nodes) are adjacent if the number of letters that differ (not necessarily in same position) by 1:
+5-letter words:
+
+  i. chaos to order
+  ```
+  shortest path between 'chaos' and 'order' is:
+['chaos', 'echos', 'chore', 'coder', 'order']
+```
+  ii. nodes to graph
+  ```
+  shortest path between 'nodes' and 'graph' is:
+['nodes', 'dopes', 'poser', 'apers', 'grape', 'graph']
+```
+  iii. moron to smart
+  ```
+  shortest path between 'smart' and 'moron' is:
+['moron', 'moors', 'morts', 'smart']
+
+```
+  iv. pound to marks
+```
+['pound', 'sound', 'modus', 'drums', 'murks', 'marks']
+```
