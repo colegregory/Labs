@@ -67,3 +67,10 @@ No path between pound and marks.
   ii. love to hate
   ```
   ['love', 'hove', 'have', 'hate']
+```
+###Word puzzle
+SLID, DOTE, HERD and OMEN and the words that follow (immediately) NINE, SELL, STAT and WHAT.
+SLIM to NONE
+NOTE to SELF
+HERE to STAY
+AMEN to THAT
