@@ -73,40 +73,22 @@ SLID, DOTE, HERD and OMEN and the words that follow (immediately) NINE, SELL, ST
 
 Words that precede/follow - 
 ```
+Words that precede/follow - 
 SLID:
-['dill', 'lied', 'soil', 'slim', 'sled', 'lois', 'mild', 'disc', 'slip', 'dish', 'disk', 'skid',
-'dial', 'said', 'sail', 'dais', 'laid', 'sial', 'isle', 'idol', 'silt', 'gild', 'sold', 'luis',
-'silk', 'sill', 'silo', 'lisp', 'lind', 'list', 'slit', 'side', 'idle', 'wild', 'lisa', 'lise']
+['said', 'slim', 'sled', 'slit', 'slip', 'skid']
 DOTE:
-['dose', 'code', 'tone', 'demo', 'rode', 'dole', 'trod', 'tide', 'done', 'todd', 'vote', 'dolt',
-'tore', 'tote', 'bode', 'doge', 'tend', 'note', 'toad', 'poet', 'told', 'node', 'coed', 'deft',
-'veto', 'dope', 'dome', 'diet', 'tied', 'date', 'debt', 'dove', 'edit', 'dent', 'mode', 'doze',
-'duet', 'rote', 'tome']
+['tote', 'rote', 'dope', 'doge', 'dome', 'dole', 'dose', 'note', 'vote', 'done', 'date', 'dove', 'doze']
 HERD:
-['shed', 'rend', 'hare', 'hard', 'deer', 'wehr', 'held', 'hyde', 'dear', 'hide', 'hued', 'dare',
-'rhea', 'rode', 'head', 'hero', 'rude', 'read', 'herb', 'hera', 'heir', 'drew', 'fred', 'reed',
-'here', 'dire', 'herr', 'dreg', 'hurd', 'hire', 'ride', 'bred', 'reid', 'heed', 'dyer', 'hear',
-'erda']
+['head', 'hero', 'herb', 'hera', 'hard', 'here', 'held', 'heed', 'herr', 'hurd']
 OMEN:
-['muon', 'tone', 'nero', 'gone', 'demo', 'move', 'neon', 'mine', 'leon', 'mode', 'done', 'cone',
-'oven', 'home', 'oxen', 'open', 'mole', 'hone', 'moan', 'zone', 'once', 'menu', 'lone', 'keno',
-'moon', 'note', 'rome', 'morn', 'noel', 'mend', 'norm', 'nose', 'node', 'amen', 'some', 'memo',
-'dome', 'come', 'lome', 'none', 'name', 'mona', 'oman', 'mien', 'enol', 'monk', 'poem', 'mont',
-'enos', 'mane', 'more', 'tome', 'bone', 'mean']
+['oman', 'oxen', 'open', 'oven', 'amen']
 NINE:
-['dine', 'neil', 'neon', 'mine', 'finn', 'fine', 'enid', 'lien', 'mien', 'tine', 'pine', 'bien',
-'penn', 'anne', 'nice', 'ginn', 'vine', 'line', 'sine', 'vein', 'none', 'nile', 'nina', 'rein',
-'wine']
+['none', 'sine', 'vine', 'mine', 'nile', 'nina', 'tine', 'pine', 'dine', 'nice', 'fine', 'line', 'wine']
 SELL:
-['lest', 'bell', 'sled', 'seal', 'hell', 'slew', 'self', 'less', 'cell', 'sloe', 'tell', 'sole',
-'ella', 'nell', 'dell', 'else', 'lens', 'fell', 'sill', 'well', 'sale', 'isle', 'lyle', 'lase',
-'lose', 'yell', 'lise']
+['bell', 'self', 'nell', 'well', 'dell', 'cell', 'fell', 'seal', 'hell', 'yell', 'sill', 'tell']
 STAT:
-['taft', 'slat', 'wast', 'seat', 'past', 'watt', 'batt', 'skat', 'scat', 'tass', 'astm', 'tate',
-'acts', 'fast', 'swat', 'stan', 'test', 'east', 'spat', 'tart', 'star', 'that', 'tact', 'stay',
-'stag', 'stab', 'hast', 'vast', 'task', 'last', 'teat', 'cast', 'tsar', 'mast', 'taut', 'taos', 'salt']
+['star', 'stag', 'slat', 'seat', 'swat', 'stab', 'skat', 'stan', 'stay', 'scat', 'spat']
 WHAT:
-['wahl', 'chat', 'wast', 'bath', 'walt', 'hath', 'chaw', 'want', 'whit', 'hart', 'hate', 'shaw',
-'wash', 'swat', 'whet', 'wham', 'lath', 'math', 'halt', 'that', 'wart', 'utah', 'thea', 'heat',
-'hast', 'path', 'thai', 'hawk', 'with', 'than', 'wait', 'tanh', 'whoa', 'watt', 'oath']
+['whit', 'wham', 'chat', 'whet', 'that']
+129 connected components
 ```
