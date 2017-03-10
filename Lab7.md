@@ -63,5 +63,12 @@ set of 5 rules
 [4] {rank=3}  => {admit=0} 0.2325  0.7685950  1.1261466
 [5] {rank=2}  => {admit=0} 0.2425  0.6423841  0.9412221
 ```
-![SAMPLE TEXT](images/Rplot.png)
 4.
+![SAMPLE TEXT](images/Rplot.png)
+
+![SAMPLE TEXT](images/Rplot2.png)
+
+![SAMPLE TEXT](images/Rplot3.png)
+
+
+
