@@ -1,5 +1,5 @@
-#Lab 7
-</pre>3. 
+# Lab 7
+3. 
 ```
 > rules.all <- apriori(admissions)
 Apriori
@@ -72,8 +72,9 @@ set of 5 rules
 ![SAMPLE TEXT](images/Rplot3.png)
 
 5. 
-###Elect
+### Elect
  States Bush Won (31 Total):
+ 
 Alabama
 Alaska
 Arizona
@@ -106,4 +107,4 @@ Virginia
 West Virginia
 Wyoming
 
-![image](images\Lab7-Elect.png)
+![image](images/Lab7-Elect.png)
