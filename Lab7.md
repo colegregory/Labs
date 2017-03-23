@@ -71,5 +71,39 @@ set of 5 rules
 
 ![SAMPLE TEXT](images/Rplot3.png)
 
+5. 
+###Elect
+ States Bush Won (31 Total):
+Alabama
+Alaska
+Arizona
+Arkansas
+Colorado
+Florida
+Georgia
+Idaho
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Mexico
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Virginia
+West Virginia
+Wyoming
 
-
+![image](images\Lab7-Elect.png)
