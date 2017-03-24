@@ -112,9 +112,11 @@ Wyoming
 ```
 
 ![image](images/Lab7-Elect.png)
+
 The states that Bush won were generally won by a higher percentage than the states that Kerry won. Kerry also won a greater number of states with high total vote counts.
 
-###Topmovies
+### Topmovies
+
  133 movies are sequels
  ```
  sequels <- 0
