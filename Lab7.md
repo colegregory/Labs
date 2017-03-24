@@ -107,4 +107,38 @@ Virginia
 West Virginia
 Wyoming
 
+```
+> states <- subset(elect, BushPct > KerryPct)
+```
+
 ![image](images/Lab7-Elect.png)
+The states that Bush won were generally won by a higher percentage than the states that Kerry won. Kerry also won a greater number of states with high total vote counts.
+
+###Topmovies
+ 133 movies are sequels
+ ```
+ sequels <- 0
+for(n in topmovies$name) {
+  sequels <- sequels + startsWith(n, topmovies$name) 
+}
+sequels = sequels - 1
+sequels = sum(sequels[sequels != 0])
+```
+
+ 20 movies have the word 'man' in them.
+ ```
+ > length(grep("man", topmovies$name))
+[1] 20
+```
+
+There are 6 Star Wars movies.
+```
+> length(grep("Star Wars", topmovies$name))
+[1] 6
+```
+
+```
+> summary(topmovies$box)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  52.58   70.28   93.60  117.50  134.60  759.60 
+ ```
